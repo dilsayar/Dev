@@ -1,6 +1,6 @@
 ## Development @ Hüseyin Demirtaş ile İngilizce
 
-[Hüseyin Demirtaş ile İngilizce](https:huseyindemirtas.net) altyapısı ve güncel teknoloji araştırmalarımızla ilgili notlarımızı burada paylaşacağım.
+[Hüseyin Demirtaş ile İngilizce](https://huseyindemirtas.net) altyapısı ve güncel teknoloji araştırmalarımızla ilgili notlarımızı burada paylaşacağım.
 
 ### Hello World!
 
