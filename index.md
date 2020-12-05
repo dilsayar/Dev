@@ -4,7 +4,7 @@
 
 ### Hello World!
 
-```
+```javascript
 // bugünün hatrına 
 console.log("Hello World");
 ```
