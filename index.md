@@ -18,3 +18,4 @@ console.log("Hello World");
 2. _Tasarımı_ güncellemek
 
 
+
