@@ -11,7 +11,7 @@ console.log("Hello World");
 
 ### Araçlar
 - GitHub Pages
-- Jekylly
+- Jekyll
 
 ### Yapılacaklar
 1. **Readme.md** eklemek
